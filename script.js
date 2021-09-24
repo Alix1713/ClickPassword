@@ -7,15 +7,15 @@ var lettersup = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var letterslow = "abcdefghijklmnopqrstuvwxyz";
 var numerical = "0123456789";
 var special = "!@#$%^&*";//Shift 1-8 are specials
-var chooseLength 
+var chooseLength
 console.log (characters)
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
 
 prompt ("Please choose a number between 8 and 128 characters");
-if (characterCount < 8 || characterCount > 128){
-chooseLength
+if (chooseLength < 8 || chooseLength > 128){
+chooseLength = 5
 };
 
  if confirm ("Do you want uppercase letters?")
