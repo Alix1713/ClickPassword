@@ -5,7 +5,7 @@ This is a javascript project to generate a randomized password.
 
 Click the button
 
-# Adding a unique id to each note
+# Code Snip
 ![Code Snippet](snip.png)
 
 
